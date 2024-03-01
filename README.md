@@ -34,9 +34,10 @@
 <p align="left"> 
   
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,cpp,php,mysql,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,c#" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,cpp,php,mysql,flask,npm" /><br>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,npm,sqlite,threejs,visualstudio,webflow,svg,arduino,swift,pycharm,mongodb,graphql" />
+  
 </div>
 
 
