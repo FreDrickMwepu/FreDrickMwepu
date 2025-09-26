@@ -9,7 +9,7 @@ r<h1 align="left">Hi! 👋, I'm Fredrick Mwepu </h1>
 
 - 🌱 I’m currently learning a lot of things
 
-- 👨‍💻 One of my projects [[https://fredrickmwepu.github.io/webpage-api.github.io/](https://fredrickmwepu.github.io/webpage-api.github.io/)](https://plastalbot.comon.tech/home)
+- 👨‍💻 One of my projects [https://plastalbot.comon.tech/home](https://plastalbot.comon.tech/home)
 
 - 📫 How to reach me fredrickmwepu22@gmail.com
 
