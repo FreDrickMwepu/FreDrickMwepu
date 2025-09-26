@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋, I'm Fredrick Mwepu </h1>
+r<h1 align="left">Hi! 👋, I'm Fredrick Mwepu </h1>
 
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning a lot of things
 
-- 👨‍💻 One of my projects [https://fredrickmwepu.github.io/webpage-api.github.io/](https://fredrickmwepu.github.io/webpage-api.github.io/)
+- 👨‍💻 One of my projects [[https://fredrickmwepu.github.io/webpage-api.github.io/](https://fredrickmwepu.github.io/webpage-api.github.io/)](https://plastalbot.comon.tech/home)
 
 - 📫 How to reach me fredrickmwepu22@gmail.com
 
@@ -50,14 +50,6 @@
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fredrickmwepu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Fredrick's Top Languages" />
 
 
-<h2 >My Contributions 🐍</h2>
-<div align="center">
-
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
 
