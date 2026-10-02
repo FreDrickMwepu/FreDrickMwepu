@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning a lot of things
 
-- 👨‍💻 One of my projects [https://plastalbot.comon.tech/home](https://www.plastalbotbuilders.com)
+- 👨‍💻 One of my projects [www.plastalbotbuilders.com](https://www.plastalbotbuilders.com)
 
 - 📫 How to reach me fredrickmwepu22@gmail.com
 
